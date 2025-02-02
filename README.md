@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white)](https://t.me/savachechen)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chemodan1988)
-[![Email](https://img.shields.io/badge/Email-green.svg?logo=gmail&logoColor=white)](mailto:savachechen@mail.ru)
+[![Instagram](https://img.shields.io/badge/Instagram-orange?style=for-the-bage&logo=instagram&logoColor=white)](https://instagram.com/cook_in_soul)
 
 </div>
 
