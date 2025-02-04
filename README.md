@@ -37,3 +37,8 @@
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FFF?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-FFF?style=for-the-badge&logo=AIRFLOW)
+
+### GitHub Статистика:
+
+![](https://github-readme-stats.vercel.app/api?username=savachechen&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=savachechen&theme=dark&hide_border=false) </br>
+
