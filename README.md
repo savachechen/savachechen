@@ -50,5 +50,5 @@
 
 ### GitHub Статистика:
 
-![](https://github-readme-stats.vercel.app/api?username=savachechen&theme=white&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=savachechen&theme=white&hide_border=false) </br>
+![](https://github-readme-stats.vercel.app/api?username=savachechen&theme=white&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=savachechen&theme=light&hide_border=false) </br>
 
