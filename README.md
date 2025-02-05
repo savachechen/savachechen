@@ -42,11 +42,11 @@
 
 | Название | Описание | Стек |
 |----------------|-----------------|-----|
-|[AB_testing_results](https://github.com/savachechen/AB_testing_results)|Анализ двух групп пользователей по резульататам тестирования новой механики оплаты на сайте|**Pandas** **Numpy** **SciPy** **Seaborn** **Matplotlib** **ttest** **chi-square**|
-|[sales-of-audio-equipment](https://github.com/savachechen/sales-of-audio-equipment)|Проанализирована работа компании по оптовой продаже аудиотехники|**Pandas** **Numpy** **Seaborn** **Matplotlib**|
-|[bootstrap_and_poisson_bootstrap](https://github.com/savachechen/bootstrap_and_poisson_bootstrap)|Написаны функции для реализации классического и Пуассоновского бутстрапа для сравнения их производительности на больших выборках|**Pandas** **Numpy** **SciPy** **bootstrap** **poisson_bootstrap**|
+|[AB_testing_results](https://github.com/savachechen/AB_testing_results)|Анализ двух групп пользователей по резульататам тестирования новой механики оплаты на сайте|**Pandas,** **Numpy,** **SciPy,** **Seaborn,** **Matplotlib,** **ttest,** **chi-square**|
+|[sales-of-audio-equipment](https://github.com/savachechen/sales-of-audio-equipment)|Проанализирована работа компании по оптовой продаже аудиотехники|**Pandas,** **Numpy,** **Seaborn,** **Matplotlib**|
+|[bootstrap_and_poisson_bootstrap](https://github.com/savachechen/bootstrap_and_poisson_bootstrap)|Написаны функции для реализации классического и Пуассоновского бутстрапа для сравнения их производительности на больших выборках|**Pandas,** **Numpy,** **SciPy,** **bootstrap,** **poisson bootstrap**|
 |Интерактивный дашборд в [Tableau](https://public.tableau.com/app/profile/sergey.savchits/viz/Myprojectv_2/Dashboard1)|Анализ работы службы поддержки бронирования отелей|**Tableau**|
-|[Analysis_delivery_app_SQL](https://github.com/savachechen/Analysis_delivery_app_SQL)|Написано несколько SQL-запросов для анализа динамики роста пользователей и курьеров, динамики ключевых метрик  в сервисе доставки еды, использованы CTE, вложенные запросы, Join, оконные функции|**SQL** **Redash**|
+|[Analysis_delivery_app_SQL](https://github.com/savachechen/Analysis_delivery_app_SQL)|Написано несколько SQL-запросов для анализа динамики роста пользователей и курьеров, динамики ключевых метрик  в сервисе доставки еды, использованы CTE, вложенные запросы, Join, оконные функции|**SQL,** **Redash**|
 
 ### GitHub Статистика:
 
