@@ -49,7 +49,7 @@
 |[Analysis_delivery_app_SQL](https://github.com/savachechen/Analysis_delivery_app_SQL)|Написано несколько SQL-запросов для анализа динамики роста пользователей и курьеров, динамики ключевых метрик  в сервисе доставки еды, использованы CTE, вложенные запросы, Join, оконные функции|**SQL,** **Redash**|
 
 ### GitHub Статистика:
-<div align="left">
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=savachechen&theme=white&hide_border=false&include_all_commits=false&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=savachechen&theme=light&hide_border=false)
