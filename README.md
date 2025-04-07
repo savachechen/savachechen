@@ -26,17 +26,22 @@
 </ul>
 
 #### Технический стэк:
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
-![SQL](https://img.shields.io/badge/-SQL-FFF?style=for-the-badge&logo=SQL)
-![Redash](https://img.shields.io/badge/-Redash-FFF?style=for-the-badge&logo=Redash)
-![EXCEL](https://img.shields.io/badge/-EXCEL-FFF?style=for-the-badge&logo=EXCEL)
-![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
-![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FFF?style=for-the-badge&logo=API)
-![Airflow](https://img.shields.io/badge/-Airflow-FFF?style=for-the-badge&logo=AIRFLOW)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"  title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/alexandra-arzhanukhina/alexandra-arzhanukhina/blob/main/sql-svgrepo-com.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/alexandra-arzhanukhina/alexandra-arzhanukhina/blob/main/airflow-svgrepo-com.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/alexandra-arzhanukhina/alexandra-arzhanukhina/blob/main/tableau-icon-svgrepo-com.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://redash.io/assets/images/logo.png" title="Redash"  width="70" height="40"/>&nbsp;
+  <img src="https://docs.cloudron.io/img/superset-logo.png" title="Superset"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="40" height="40"/>&nbsp;
 
 ## Мои проекты 👇:
 
