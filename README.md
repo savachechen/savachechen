@@ -54,6 +54,7 @@
 |[bootstrap_and_poisson_bootstrap](https://github.com/savachechen/bootstrap_and_poisson_bootstrap)|Написаны функции для реализации классического и Пуассоновского бутстрапа для сравнения их производительности на больших выборках|**Pandas,** **Numpy,** **SciPy,** **bootstrap,** **poisson bootstrap**|
 |Интерактивный дашборд в [Tableau](https://public.tableau.com/app/profile/sergey.savchits/viz/Myprojectv_2/Dashboard1)|Анализ работы службы поддержки бронирования отелей|**Tableau**|
 |[Analysis_delivery_app_SQL](https://github.com/savachechen/Analysis_delivery_app_SQL)|Написано несколько SQL-запросов для анализа динамики роста пользователей и курьеров, динамики ключевых метрик  в сервисе доставки еды, использованы CTE, вложенные запросы, Join, оконные функции|**SQL,** **Redash**|
+|[Marketing_analysis_of_advertising_campaigns](https://github.com/savachechen/Marketing_analysis_of_advertising_campaigns)|Расчёт периодов окупаемости рекламных кампаний|**Pandas,** **Numpy,** **SciPy,** **Seaborn,** **Matplotlib,** **ttest,** **chi-square**,**google presentation**|
 
 ### GitHub Статистика:
 <div align="left">
